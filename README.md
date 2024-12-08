@@ -1,2 +1,2 @@
 # pelican_notmyidea_theme
-I'm uploading the default "notmyidea" theme from the Pelican static site generating program to be downloaded and edited more easily
+I'm uploading the default "notmyidea" theme from the Pelican static site generating program so that it can be downloaded and edited more easily. This was retrieved when Pelican was in version 4.10.2. You can download the theme from Pelican's GitHub profile, however you have to pick through their directories, and I thought it would be more simple to download this in a single zip file and unzip it on your computer when you want to edit it to create your own theme. Good luck!
